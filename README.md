@@ -4,11 +4,11 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DarrylXzq&show_icons=true&bg_color=45,BA55D3,87CEEB,77DD77,FFFF99,FFB347,FF6961" alt="Statistical card"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DarrylXzq&layout=compact&card_width=375&bg_color=45,FF6961,FFB347,FFFF99,77DD77,87CEEB,BA55D3" height="195" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DarrylXzq&layout=compact&bg_color=45,FF6961,FFB347,FFFF99,77DD77,87CEEB,BA55D3" height="195" alt="languages graph"  />
 </div>
 
 ###
+
 <div align="center">
   <img src="https://github.com/DarrylXzq/DarrylXzq/blob/output/snake.svg" alt="Snake animation" />
 </div>
-###
